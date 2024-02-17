@@ -14,7 +14,7 @@ export default function App() {
     <View style={styles.container}>
       <Text h3>Start Using RNE </Text>
       <Text style={styles.text}>
-        Open up App.tsx to start working on your app!
+        Eu não sei mais o que estou fazendo
       </Text>
       <Button onPress={handleOnPress}>Switch Theme</Button>
     </View>
